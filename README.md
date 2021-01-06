@@ -13,6 +13,8 @@ Jer Miller <Gkstaff@gmail.com>
 
 * Computer
 
+* VSCode
+
 * Electricity
 
 
